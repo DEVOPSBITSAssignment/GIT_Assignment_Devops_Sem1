@@ -21,15 +21,15 @@ As a part of our assigment in our Intro to Devops course and to have a practical
 Installation
 --------------
 Install git and create a repo in Git hub by creating an account.
--> Cloned the Git repo from remote
--> Created the branch development/production
--> Created the branch feature
--> Pushed all three branches to remote repository
+      - Cloned the Git repo from remote
+      - Created the branch development/production
+      - Created the branch feature
+      - Pushed all three branches to remote repository
 
 Contributors
 --------------
-1 Akshit Kapoor 
-2 Navya Vattikuti
-3 Sandeep Yedulapuram
-4 Immadi Janakiram Chaitanya
-5 Chandra Prakash Batra
+      1. Akshit Kapoor 
+      2. Navya Vattikuti
+      3. Sandeep Yedulapuram
+      4. Immadi Janakiram Chaitanya
+      5. Chandra Prakash Batra
