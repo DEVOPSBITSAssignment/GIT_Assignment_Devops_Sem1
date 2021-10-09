@@ -20,7 +20,7 @@ As a part of our assigment in our Intro to Devops course and to have a practical
 
 Installation
 --------------
-Install git and create a repo in Git hub by creating an account.
+      - Install git and create a repo in Git hub by creating an account.
       - Cloned the Git repo from remote
       - Created the branch development/production
       - Created the branch feature
